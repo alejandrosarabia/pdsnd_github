@@ -2,27 +2,22 @@
 
 ### Date created
 Include the date you created this project and README file.
+02/09/2022
 
 ### Project Title
-Replace the Project Title
+Explore US bikeshare
 
 ### Description
 Describe what your project is about and what it does
+This project collects data of bikeshare app used in 3 different cities in the US. You can select a city,  month(s), and day(s). It will filter and show you the stats of the data points selected.
 
 ### Files used
-Include the files used
+Include the files used:
+chicago.csv
+new_york_city.csv
+washington.csv
+bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-### Change 1
-Change no 1
-
-### Change 2
-Change no 2
-
-### Change 3
-Change no 3
-
-### Change 4
-Change no 4
+Udacity
